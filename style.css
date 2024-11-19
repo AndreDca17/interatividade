@@ -1,0 +1,32 @@
+/*corpo*/
+body{
+    /*cor de fundo*/
+    background-color: #fff0f5;
+}
+ /*seção*/
+section{
+   /*borda da seção*/
+    border: 1px dashed #d8d8d8
+}
+/**/
+#status{
+    /**/
+    color: #6d6d6d;
+    font-size: 30px;
+}
+/*configurações do botão*/
+button{
+    /*cor do botão*/
+    color: #6d6d6d;
+     /*cor do botão*/
+    background-color: #e686b9;
+   /*largura do botão*/
+    width: 150px;
+    /*tamanho do botão*/
+    height: 50px;
+    /*fonte do botão*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /*tamanho do botão*/
+    font-size: 18px;
+}
+
